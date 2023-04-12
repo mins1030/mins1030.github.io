@@ -6,6 +6,6 @@ categories: [test]
 tags: [test1, test2]
 ---
 
-sample content .
+sample content ...
 
 ---
