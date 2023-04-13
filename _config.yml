@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "en-US"
 # title                    : "Site Title"
-title                    : "..."
+title                    : "201411096's Diary"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 # name                     : "Your Name"
@@ -65,7 +65,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   # hide                   : # true, false (default)
   hide                   : true
-search                   : # true, false (default)
+# search                   : # true, false (default)
+search                   : true
 # search_full_content      : # true, false (default)
 search_full_content      : true
 # search_provider          : # lunr (default), algolia, google
