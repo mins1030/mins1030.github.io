@@ -62,9 +62,11 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  # hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
-search_full_content      : # true, false (default)
+# search_full_content      : # true, false (default)
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -81,19 +83,19 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# twitter:
+#   username               :
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 : # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -111,13 +113,12 @@ author:
   # bio              : "I am an **amazing** person."
   bio              : "....."
   # location         : "Somewhere"
-  location         : "...."
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-      url: "korea5781@gmail.com"
+      url: "mailto:korea5781@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
