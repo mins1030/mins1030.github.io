@@ -302,5 +302,6 @@ defaults:
       # read_time: true (읽는데 얼마나 걸릴지)
       read_time: false
       comments: # true
-      share: true
+      # share: true
+      share: false
       related: true
