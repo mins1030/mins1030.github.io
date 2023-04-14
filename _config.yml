@@ -26,11 +26,11 @@ after_footer_scripts:
 # Site Settings
 locale                   : "en-US"
 # title                    : "Site Title"
-title                    : "201411096's Notepad"
+title                    : "Min's Notepad"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 # name                     : "Your Name"
-name                     : "201411096"
+name                     : "김민서"
 # description              : "An amazing website."
 description              : "....."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -121,7 +121,7 @@ analytics:
 # Site Author
 author:
   # name             : "Your Name"
-  name             : "201411096"
+  name             : "서김민서"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # bio              : "I am an **amazing** person."
   bio              : "....."
@@ -131,7 +131,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-      url: "mailto:korea5781@gmail.com"
+      url: "mailto:alstj9309@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -144,7 +144,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-      url: "https://github.com/201411096"
+      url: "https://github.com/mins1030"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -161,7 +161,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-      url: https://github.com/201411096"
+      url: https://github.com/mins1030"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
